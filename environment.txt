@@ -1,0 +1,14 @@
+
+conda create -n kivy_env python=3.9 conda-forge::kivy conda-forge::kivy-garden conda-forge::plyer conda-forge::gpxpy numpy conda-forge::geopy
+conda activate kivy_env
+garden install mapview
+
+#To run it on pc: 
+python main.py
+
+#To package it for Android (Linux or WSL necessary)
+buildozer installation: https://buildozer.readthedocs.io/en/latest/installation.html
+export PATH=$PATH:~/.local/bin/
+buildozer init
+buildozer android debug deploy run #takes forever
+
