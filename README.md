@@ -1,9 +1,14 @@
 # Trailing Your Trail
 ## Project Overview
 
-Embarking on a journey into the wilderness should be an immersive experience, free from distractions. Recognizing this, our project aims to enhance the outdoor adventure by eliminating the need to frequently consult one’s phone for navigational assurance.  
-
-Our initiative seeks to resolve this issue by introducing a discreet, vibration-based notification system that signals users only when necessary, thereby preserving the continuity of their experience. 
+The objective of this project is to develop a mobile
+application for both Android and iOS platforms, utilizing Python.
+The app is designed to import hiking and biking trail routes in the
+form of GPX files. It features an intuitive alert system that notifies
+users through vibration feedback when they stray from their
+designated route. This innovative functionality ensures that users
+can remain focused on their outdoor activities without the
+necessity of frequent visual checks on their device. 
 
 ## How to run
 The code is contained in main.py file.
