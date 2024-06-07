@@ -11,7 +11,7 @@ garden install mapview
 python main.py
 ```
 
-## Running the code on android using Buildozer (Linux or WSL needed)
+## Running the code on Android using Buildozer (Linux or WSL needed)
 ```bash
 buildozer installation: https://buildozer.readthedocs.io/en/latest/installation.html
 export PATH=$PATH:~/.local/bin/
