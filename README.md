@@ -1,5 +1,8 @@
 # Trailing Your Trail
-application to provide vibration notification when deviating from target trail.
+Embarking on a journey into the wilderness should be an immersive experience, free from distractions. Recognizing this, our project aims to enhance the outdoor adventure by eliminating the need to frequently consult one’s phone for navigational assurance.  
+
+Our initiative seeks to resolve this issue by introducing a discreet, vibration-based notification system that signals users only when necessary, thereby preserving the continuity of their experience. 
+
 # How to run
 The code is contained in main.py file.
 ## Running the code on pc
