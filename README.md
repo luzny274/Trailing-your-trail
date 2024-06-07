@@ -7,7 +7,7 @@ Our initiative seeks to resolve this issue by introducing a discreet, vibration-
 
 ## How to run
 The code is contained in main.py file.
-### Running the code on pc
+### Running the code on PC
 ```bash
 conda create -n kivy_env python=3.9 conda-forge::kivy conda-forge::kivy-garden conda-forge::plyer conda-forge::gpxpy numpy conda-forge::geopy
 conda activate kivy_env
